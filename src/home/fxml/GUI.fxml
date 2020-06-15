@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="home.controllers.Controller">
+   <children>
+      <Pane prefHeight="75.0" prefWidth="600.0" style="-fx-background-color: #1f1f31;">
+         <children>
+            <TextField fx:id="yourChamp" layoutX="20.0" layoutY="24.0" onAction="#handleChamp" style="-fx-border-color: #2727ff; -fx-background-color: #1f1f31; -fx-background-insets: 0; -fx-border-radius: 20; -fx-text-fill: #ffffff;" />
+            <Button fx:id="topButton" layoutX="196.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleRole" prefHeight="73.0" prefWidth="80.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff; -fx-opacity: 1;" text="Top" />
+            <Button fx:id="junButton" layoutX="277.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleRole" prefHeight="73.0" prefWidth="80.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff;" text="Jungle" />
+            <Button fx:id="midButton" layoutX="358.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleRole" prefHeight="73.0" prefWidth="80.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff;" text="Middle" />
+            <Button fx:id="adcButton" layoutX="439.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleRole" prefHeight="73.0" prefWidth="80.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff;" text="Adc" />
+            <Button fx:id="supButton" layoutX="520.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleRole" prefHeight="73.0" prefWidth="80.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff;" text="Support" />
+            <Button fx:id="exitButton" layoutX="0.0" layoutY="0.0" mnemonicParsing="false" onAction="#handleClose" prefHeight="15.0" prefWidth="15.0" style="-fx-background-color: #1f1f31; -fx-text-fill: #ffffff;" text="x" />
+         </children>
+      </Pane>
+      <Pane layoutY="75.0" prefHeight="325.0" prefWidth="600.0" style="-fx-background-color: #09091d;">
+         <children>
+            <Button fx:id="goldButton" layoutX="517.0" layoutY="269.0" mnemonicParsing="false" onAction="#handleCalc" prefHeight="6.0" prefWidth="51.0" text="Enter" />
+            <TextField fx:id="currentGold" layoutX="347.0" layoutY="269.0" onAction="#handleCalc" />
+            <Label layoutX="307.0" layoutY="274.0" style="-fx-text-fill: #ffffff;" text="Gold:" />
+            <Pane layoutX="10.0" layoutY="28.0" prefHeight="90.0" prefWidth="150.0" style="-fx-border-color: #2727ff;">
+               <children>
+                  <Label layoutX="30.0" prefHeight="30.0" prefWidth="90.0" style="-fx-text-fill: ffffff; -fx-text-align: center;" text="Starting Items" textAlignment="CENTER" />
+                  <Label fx:id="startingItem1" layoutX="3.0" layoutY="30.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="startingItem2" layoutX="3.0" layoutY="50.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="startingItem3" layoutX="3.0" layoutY="70.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+               </children>
+            </Pane>
+            <Pane layoutX="10.0" layoutY="146.0" prefHeight="150.0" prefWidth="150.0" style="-fx-border-color: #2727ff;">
+               <children>
+                  <Label layoutX="47.0" prefHeight="30.0" prefWidth="55.0" style="-fx-text-fill: ffffff; -fx-text-alignment: center;" text="Fullbuild" textAlignment="CENTER" />
+                  <Label fx:id="finalItem1" layoutX="3.0" layoutY="30.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="finalItem2" layoutX="3.0" layoutY="50.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="finalItem3" layoutX="3.0" layoutY="70.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="finalItem4" layoutX="3.0" layoutY="90.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="finalItem5" layoutX="3.0" layoutY="110.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+                  <Label fx:id="finalItem6" layoutX="3.0" layoutY="130.0" prefHeight="20.0" prefWidth="145.0" style="-fx-text-fill: #ffffff; -fx-font-size: 11;" />
+               </children>
+            </Pane>
+            <TextArea fx:id="itemDisplay" editable="false" layoutX="220.0" layoutY="55.0" prefHeight="180.0" prefWidth="190.0" />
+            <TextArea fx:id="inventoryDisplay" editable="false" layoutX="430.0" layoutY="55.0" prefHeight="180.0" prefWidth="135.0" />
+            <Label layoutX="430.0" layoutY="25.0" prefHeight="30.0" prefWidth="70.0" style="-fx-text-fill: ffffff; -fx-text-align: center;" text="Inventory:" textAlignment="CENTER" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

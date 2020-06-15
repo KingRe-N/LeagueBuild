@@ -1,0 +1,640 @@
+Abyssal Mask
+384
+2400
+3000
+Adaptive Helm
+0
+2881
+2800
+Archangel's Staff
+432
+2400
+3200
+Ardent Censer
+96
+4321
+2250
+Athene's Unholy Grail
+96
+2401
+2250
+Banshee's Veil
+240
+481
+3000
+Berserker’s Greaves
+48
+2880
+1100
+Black Cleaver
+240
+4320
+3000
+Blade of the Ruined King
+240
+1921
+3300
+Bloodthirster
+288
+4320
+3500
+Boots of Mobility
+336
+961
+900
+Boots of Swiftness
+192
+2880
+900
+Circlet of the Iron Solari
+0
+3841
+2200
+Corrupting Potion
+48
+1920
+500
+Dark Seal
+240
+960
+350
+Dead Man's Plate
+336
+482
+2900
+Death's Dance
+144
+962
+3500
+Doran's Blade
+48
+960
+450
+Doran's Ring
+96
+960
+400
+Doran's Shield
+0
+960
+450
+Duskblade of Draktharr
+96
+1921
+2900
+Edge of Night
+240
+962
+2900
+Essence Reaver
+144
+4321
+3300
+Forgefire Cape
+240
+3361
+2900
+Frozen Heart
+0
+961
+2700
+Frozen Mallet
+336
+2880
+3100
+Gargoyle Stoneplate
+432
+2401
+2500
+Guardian Angel
+0
+3360
+2800
+Guinsoo's Rageblade
+432
+961
+3100
+Health Potion
+240
+1440
+50
+Hextech GLP-800
+192
+3360
+2800
+Hextech Gunblade
+48
+1921
+3400
+Hextech Protobelt-01
+192
+1921
+2500
+Hunter's Machete
+240
+480
+350
+Hunter's Talisman
+192
+480
+350
+Iceborn Gauntlet
+432
+2880
+2700
+Infernal Mask
+336
+3361
+2900
+Infinity Edge
+240
+3360
+3400
+Ionian Boots of Lucidity
+432
+1921
+900
+Knight's Vow
+432
+481
+2200
+Liandry's Torment
+144
+1921
+3100
+Lich Bane
+144
+481
+3200
+Locket of the Iron Solari
+336
+2401
+2200
+Long Sword
+48
+480
+350
+Lord Dominik's Regards
+384
+3360
+2800
+Luden's Echo
+336
+2881
+3200
+Manamune
+0
+2880
+2400
+Maw of Malmortius
+336
+1921
+3250
+Mejai's Soulstealer
+0
+3840
+1400
+Mercurial Scimitar
+240
+1441
+3500
+Mercury's Treads
+48
+961
+1100
+Mikael's Crucible
+288
+2881
+2100
+Morellonomicon
+48
+2401
+3000
+Mortal Reminder
+288
+3360
+2800
+Nashor's Tooth
+240
+961
+3000
+Ninja Tabi
+240
+3840
+1100
+Perfect Hex Core
+144
+2881
+3000
+Phantom Dancer
+192
+3840
+2600
+Rabadon's Deathcap
+432
+01
+3600
+Rabadon's Deathcrown
+288
+3361
+3600
+Randuin's Omen
+384
+1441
+2900
+Rapid Fire Cannon
+48
+481
+2600
+Ravenous Hydra
+384
+4320
+3500
+Redemption
+336
+481
+2100
+Refillable Potion
+0
+1920
+150
+Relic Shield
+48
+1442
+400
+Righteous Glory
+0
+962
+2650
+Rod of Ages
+48
+3360
+2600
+Runaans's Hurricane
+288
+01
+2600
+Rylai's Crystal Scepter
+288
+961
+2600
+Salvation
+432
+3361
+2100
+Sanguine Blade
+240
+2401
+3100
+Shurelya's Reverie
+336
+1920
+2050
+Skirmisher's Sabre - Bloodrazor
+192
+1440
+2625
+Skirmisher's Sabre - Cinderhulk
+48
+1440
+2500
+Skirmisher's Sabre - Runic Echoes
+96
+1440
+2500
+Skirmisher's Sabre - Warrior
+0
+1440
+2625
+Sorcerer's Shoes
+288
+2880
+1100
+Spectral Sickle
+192
+1442
+400
+Spellthief's Edge
+288
+962
+400
+Spirit Visage
+48
+4320
+2800
+Stalker's Blade - Bloodrazor
+144
+1440
+2625
+Stalker's Blade - Cinderhulk
+384
+960
+2500
+Stalker's Blade - Runic Echoes
+432
+960
+2500
+Stalker's Blade - Warrior
+336
+960
+2625
+Steel Shoulderguards
+432
+962
+400
+Statikk Shiv
+384
+01
+2600
+Sterak's Gage
+432
+3840
+3200
+Stormrazor
+96
+481
+3200
+Sunfire Cape
+144
+4320
+2750
+Thornmail
+432
+4320
+2900
+Tiamat
+48
+01
+1325
+Titanic Hydra
+384
+482
+3500
+Trinity Force
+96
+01
+3733
+Trinity Fusion
+48
+3841
+3733
+Twin Shadows
+0
+1922
+2400
+Umbral Glaive
+192
+2401
+2400
+Void Staff
+96
+1441
+2650
+Warmog's Armor
+192
+01
+2850
+Wit's End
+0
+481
+2900
+Youmuu's Ghostblade
+336
+1441
+2900
+Zeke's Convergence
+336
+3840
+2250
+Zhonya's Hourglass
+384
+1921
+2900
+Zhonya's Paradox
+96
+3841
+2900
+Aegis of the Legion
+1
+11
+1100
+Aether Wisp
+1
+12
+850
+Amplifying Tome
+1
+13
+435
+B.F. Sword
+1
+14
+1300
+Bami's Cinder
+1
+15
+900
+Bilgewater Cutlass
+1
+16
+1600
+Blasting Wand
+1
+17
+850
+Boots of Speed
+1
+18
+300
+Bramble Vest
+1
+19
+1000
+Catalyst of Aeons
+1
+111
+1100
+Caulfield's Warhammer
+1
+112
+1100
+Chain Vest
+1
+113
+800
+Chalice of Harmony
+1
+114
+800
+Cloak of Agility
+1
+115
+800
+Commencing Stopwatch
+1
+116
+0
+Control Ward
+1
+117
+75
+Crystalline Bracer
+1
+118
+650
+Dagger
+1
+119
+300
+Executioner's Calling
+1
+121
+800
+Faerie Charm
+1
+122
+125
+Fiendish Codex
+1
+123
+900
+Forbidden Idol
+1
+124
+850
+Giant's Belt
+1
+125
+1000
+Glacial Shroud
+1
+126
+900
+Haunting Guise
+1
+127
+1600
+Hexdrinker
+1
+128
+1300
+Hextech Revolver
+1
+129
+1050
+Jaurim's Fist
+1
+131
+1200
+Kindlegem
+1
+132
+800
+Kirchheim Shard
+1
+133
+700
+Last Whisper
+1
+134
+1450
+Lost Chapter
+1
+135
+1300
+Needlessly Large Rod
+1
+136
+1250
+Negation Cloak
+1
+137
+720
+Null-Magic Mantle
+1
+138
+450
+Oblivion Orb
+1
+139
+1600
+Phage
+1
+141
+1250
+Pickaxe
+1
+142
+875
+Quicksilver Sash
+1
+143
+1300
+Recurve Bow
+1
+144
+1000
+Rejuvenation Bead
+1
+145
+150
+Ruby Crystal
+1
+146
+400
+Sapphire Crystal
+1
+147
+350
+Seeker's Armguard
+1
+148
+1100
+Serrated Dirk
+1
+149
+1100
+Sheen
+1
+151
+1050
+Skirmisher's Sabre
+1
+152
+1000
+Spectre's Cowl
+1
+153
+1200
+Stalker's Blade
+1
+154
+1000
+Stinger
+1
+155
+1100
+Tear of the Goddess
+1
+156
+850
+Vampiric Scepter
+1
+157
+900
+Warden's Mail
+1
+158
+1000
+Zeal
+1
+159
+1400
+Cloth Armor
+1
+161
+300
+nothing
+33
+33
+3333333
